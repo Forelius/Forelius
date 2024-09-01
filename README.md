@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Forelius
+- 👀 I’m interested in music production, guitars, synths, ttrpgs, software development, Western civilization and culture.
+- 🌱 I’m currently learning.
+- 💞️ I’m not interested in collaborating at the moment.
+- 📫 How to reach me: Message me on github.
